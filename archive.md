@@ -9,7 +9,8 @@ This section documents temporary structures across Delhi.
 - Commercial spaces
 
 ## Interactive Map
-(Add your Google My Maps link here)
+
+(<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1qQgYqcpIM15BUxO-RwZare3NvsqVatU&ehbc=2E312F" width="640" height="480"></iframe>)
 
 ## Sample Entry
 **Location:** Lajpat Nagar  
@@ -18,5 +19,3 @@ This section documents temporary structures across Delhi.
 **Duration:** 10 days  
 
 Description: A temporary structure built for Durga Puja, reflecting cultural symbolism.
-
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1qQgYqcpIM15BUxO-RwZare3NvsqVatU&ehbc=2E312F" width="640" height="480"></iframe>
