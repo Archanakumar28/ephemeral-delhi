@@ -1,0 +1,10 @@
+theme: minima
+title: Ephemeral Delhi
+description: A Digital Humanities Archive of Temporary Architecture
+
+header_pages:
+  - about.md
+  - methodology.md
+  - archive.md
+  - analysis.md
+  - reflection.md
