@@ -10,7 +10,7 @@ This section documents temporary structures across Delhi.
 
 ## Interactive Map
 
-(<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1qQgYqcpIM15BUxO-RwZare3NvsqVatU&ehbc=2E312F" width="640" height="480"></iframe>)
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1qQgYqcpIM15BUxO-RwZare3NvsqVatU&ehbc=2E312F" width="640" height="480"></iframe>
 
 ## Sample Entry
 **Location:** Lajpat Nagar  
