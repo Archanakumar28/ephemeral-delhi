@@ -1,20 +1,17 @@
- ABOUT
+Code view is read-only.
+# About the Project
 
-## Key Themes
+## Core Idea
+This project studies temporary architecture in Delhi as a form of cultural expression.
 
-### 1. Temporariness
-These structures reflect impermanence in cultural practices.
+## Research Questions
+- How does temporary architecture reflect cultural and political life?
+- What meanings are embedded in design and materials?
+- How do these structures reshape public space?
+- What happens after they disappear?
 
-### 2. Performance
-Architecture acts as an event rather than a static structure.
+## Theoretical Framework
+- Henri Lefebvre → Production of space
+- Performance theory
+- Memory studies
 
-### 3. Public Space
-Temporary structures reshape movement and visibility.
-
-### 4. Power and Identity
-- Religious structures → devotion
-- Political structures → authority
-- Wedding spaces → aspiration
-
-## Argument
-Temporary architecture functions as a cultural text that transforms urban space.
