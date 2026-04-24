@@ -1,7 +1,7 @@
 # About the Project
 
 ## Core Idea
-This project studies temporary architecture in Delhi as a form of cultural expression.
+This project studies Ananya temporary architecture in Delhi as a form of cultural expression.
 
 ## Research Questions
 - How does temporary architecture reflect cultural and political life?
